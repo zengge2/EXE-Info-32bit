@@ -1,0 +1,1048 @@
+﻿生成启动时间为 2018/5/6 22:32:51。
+     1>项目“E:\zengxianxi\VCPPwork\exeinfosrc\exeinfo.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O1 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo".\Release\\" /Fd".\Release\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(53): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(96): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(172): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(191): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(210): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(211): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(212): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(213): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(218): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(229): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(235): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(252): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(254): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(303): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(309): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(317): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(319): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(352): warning C4996: '_ultoa': This function or variable may be unsafe. Consider using _ultoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdlib.h(683): note: 参见“_ultoa”的声明
+     1>main.cpp(362): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(363): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(364): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(381): warning C4996: '_ultoa': This function or variable may be unsafe. Consider using _ultoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdlib.h(683): note: 参见“_ultoa”的声明
+     1>main.cpp(384): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(397): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(398): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(427): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(428): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(486): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(494): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(496): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(498): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(505): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(512): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(621): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(90): note: 参见“strcat”的声明
+     1>main.cpp(642): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(650): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+     1>main.cpp(651): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+     1>main.cpp(660): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(663): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(699): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(709): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(711): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(713): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(740): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(781): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(787): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+     1>main.cpp(791): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(832): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(835): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>main.cpp(841): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         C:\Program Files (x86)\Windows Kits\10\Include\10.0.10150.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+     1>e:\zengxianxi\vcppwork\exeinfosrc\main.cpp(941): warning C4700: 使用了未初始化的局部变量“hInstance”
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _VC80_UPGRADE=0x0600 /l"0x040d" /nologo /fo".\Release\Script1.res" Script1.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release\exeinfo.exe" /VERBOSE /INCREMENTAL /NOLOGO odbc32.lib odbccp32.lib version.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:".\Release\exeinfo.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\exeinfo.lib" /MACHINE:X86 /SAFESEH .\Release\Script1.res
+         .\Release\main.obj
+         LINK : ILK 文件不是由此链接器生成；正在执行完全链接
+         
+         正在启动传递 1
+         已处理 /DEFAULTLIB: uuid.lib
+         已处理 /DEFAULTLIB: MSVCRT
+         已处理 /DEFAULTLIB: OLDNAMES
+         
+         正在搜索库
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\version.lib:
+               已找到 _GetFileVersionInfoSizeA@8
+                 已在 main.obj 中引用
+                 已加载 version.lib(VERSION.dll)
+               已找到 _GetFileVersionInfoA@16
+                 已在 main.obj 中引用
+                 已加载 version.lib(VERSION.dll)
+               已找到 _VerQueryValueA@16
+                 已在 main.obj 中引用
+                 已加载 version.lib(VERSION.dll)
+               已找到 __IMPORT_DESCRIPTOR_VERSION
+                 已在 version.lib(VERSION.dll) 中引用
+                 已在 version.lib(VERSION.dll) 中引用
+                 已在 version.lib(VERSION.dll) 中引用
+                 已加载 version.lib(VERSION.dll)
+               已找到 __NULL_IMPORT_DESCRIPTOR
+                 已在 version.lib(VERSION.dll) 中引用
+                 已加载 version.lib(VERSION.dll)
+               已找到 VERSION_NULL_THUNK_DATA
+                 已在 version.lib(VERSION.dll) 中引用
+                 已加载 version.lib(VERSION.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\kernel32.lib:
+               已找到 __imp__CreateFileA@28
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetFileSize@8
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetFileTime@16
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__ReadFile@20
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__SetFilePointer@16
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetLastError@0
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__LocalFree@4
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__FormatMessageA@28
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__FileTimeToSystemTime@8
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetDateFormatA@24
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetTimeFormatA@24
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetNumberFormatA@24
+                 已在 main.obj 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __IMPORT_DESCRIPTOR_KERNEL32
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 KERNEL32_NULL_THUNK_DATA
+                 已在 kernel32.lib(KERNEL32.dll) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\user32.lib:
+               已找到 __imp__GetMessageA@16
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__TranslateMessage@4
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__DispatchMessageA@4
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__SendMessageA@16
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__PostQuitMessage@4
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__ShowWindow@8
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__SetWindowPos@28
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__CreateDialogParamA@20
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__DialogBoxParamA@20
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__GetDlgItem@8
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__SetDlgItemTextA@12
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__GetDlgItemTextA@16
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__GetSystemMetrics@4
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__GetDC@4
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__ReleaseDC@8
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__GetWindowRect@8
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__LoadImageA@24
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __imp__IsDialogMessageA@8
+                 已在 main.obj 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 __IMPORT_DESCRIPTOR_USER32
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已在 user32.lib(USER32.dll) 中引用
+                 已加载 user32.lib(USER32.dll)
+               已找到 USER32_NULL_THUNK_DATA
+                 已在 user32.lib(USER32.dll) 中引用
+                 已加载 user32.lib(USER32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\gdi32.lib:
+               已找到 __imp__CreateFontIndirectA@4
+                 已在 main.obj 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 __imp__CreateSolidBrush@4
+                 已在 main.obj 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 __imp__DeleteObject@4
+                 已在 main.obj 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 __imp__GetDeviceCaps@8
+                 已在 main.obj 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 __imp__SetBkColor@8
+                 已在 main.obj 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 __IMPORT_DESCRIPTOR_GDI32
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+               已找到 GDI32_NULL_THUNK_DATA
+                 已在 gdi32.lib(GDI32.dll) 中引用
+                 已加载 gdi32.lib(GDI32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\comdlg32.lib:
+               已找到 __imp__GetOpenFileNameA@4
+                 已在 main.obj 中引用
+                 已加载 comdlg32.lib(COMDLG32.dll)
+               已找到 __IMPORT_DESCRIPTOR_COMDLG32
+                 已在 comdlg32.lib(COMDLG32.dll) 中引用
+                 已加载 comdlg32.lib(COMDLG32.dll)
+               已找到 COMDLG32_NULL_THUNK_DATA
+                 已在 comdlg32.lib(COMDLG32.dll) 中引用
+                 已加载 comdlg32.lib(COMDLG32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\shell32.lib:
+               已找到 __imp__DragQueryFileA@16
+                 已在 main.obj 中引用
+                 已加载 shell32.lib(SHELL32.dll)
+               已找到 __imp__DragFinish@4
+                 已在 main.obj 中引用
+                 已加载 shell32.lib(SHELL32.dll)
+               已找到 __imp__DragAcceptFiles@8
+                 已在 main.obj 中引用
+                 已加载 shell32.lib(SHELL32.dll)
+               已找到 __IMPORT_DESCRIPTOR_SHELL32
+                 已在 shell32.lib(SHELL32.dll) 中引用
+                 已在 shell32.lib(SHELL32.dll) 中引用
+                 已在 shell32.lib(SHELL32.dll) 中引用
+                 已加载 shell32.lib(SHELL32.dll)
+               已找到 SHELL32_NULL_THUNK_DATA
+                 已在 shell32.lib(SHELL32.dll) 中引用
+                 已加载 shell32.lib(SHELL32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\MSVCRT.lib:
+               已找到 "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z)
+                 已在 main.obj 中引用
+                 已加载 MSVCRT.lib(new_array.obj)
+               已找到 "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z)
+                 已在 main.obj 中引用
+                 已加载 MSVCRT.lib(delete_array.obj)
+               已找到 @__security_check_cookie@4
+                 已在 main.obj 中引用
+                 已加载 MSVCRT.lib(_secchk_.obj)
+               已找到 __chkstk
+                 已在 main.obj 中引用
+                 已加载 MSVCRT.lib(chkstk.obj)
+               已找到 ___security_cookie
+                 已在 main.obj 中引用
+                 已在 MSVCRT.lib(_secchk_.obj) 中引用
+                 已加载 MSVCRT.lib(gs_cookie.obj)
+               已找到 _WinMainCRTStartup
+                 已加载 MSVCRT.lib(exe_winmain.obj)
+               已找到 "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z)
+                 已在 MSVCRT.lib(new_array.obj) 中引用
+                 已加载 MSVCRT.lib(new_scalar.obj)
+               已找到 "void __cdecl operator delete(void *)" (??3@YAXPAX@Z)
+                 已在 MSVCRT.lib(delete_array.obj) 中引用
+                 已加载 MSVCRT.lib(delete_scalar.obj)
+               已找到 ___report_gsfailure
+                 已在 MSVCRT.lib(_secchk_.obj) 中引用
+                 已加载 MSVCRT.lib(gs_report.obj)
+               已找到 _atexit
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(utility.obj)
+               已找到 ___security_init_cookie
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(gs_support.obj)
+               已找到 __matherr
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(matherr.obj)
+               已找到 __get_startup_argv_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(argv_mode.obj)
+               已找到 __get_startup_commit_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(commit_mode.obj)
+               已找到 __get_startup_file_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(file_mode.obj)
+               已找到 __get_startup_new_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(new_mode.obj)
+               已找到 __get_startup_thread_locale_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(thread_locale.obj)
+               已找到 "void __cdecl __scrt_initialize_type_info(void)" (?__scrt_initialize_type_info@@YAXXZ)
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(tncleanup.obj)
+               已找到 __initialize_default_precision
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(default_precision.obj)
+               已找到 __initialize_invalid_parameter_handler
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(invalid_parameter_handler.obj)
+               已找到 __initialize_denormal_control
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(denormal_control.obj)
+               已找到 ___scrt_initialize_default_local_stdio_options
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(default_local_stdio_options.obj)
+               已找到 ___scrt_is_user_matherr_present
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(matherr_detection.obj)
+               已找到 ___scrt_get_dyn_tls_init_callback
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(dyn_tls_init.obj)
+               已找到 ___scrt_get_dyn_tls_dtor_callback
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(dyn_tls_dtor.obj)
+               已找到 ___scrt_get_show_window_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(utility_desktop.obj)
+               已找到 __RTC_Initialize
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(_initsect_.obj)
+               已找到 @_guard_check_icall@4
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已在 MSVCRT.lib(_initsect_.obj) 中引用
+                 已加载 MSVCRT.lib(checkcfg.obj)
+               已找到 __SEH_epilog4
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 MSVCRT.lib(_sehprolg4_.obj)
+               已找到 __except_handler4
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已在 MSVCRT.lib(_sehprolg4_.obj) 中引用
+                 已加载 MSVCRT.lib(_chandler4gs_.obj)
+               已找到 ___xi_a
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 MSVCRT.lib(initializers.obj)
+         已处理 /DEFAULTLIB: kernel32.lib
+          已处理 /DISALLOWLIB: msvcrtd.lib
+          已处理 /DISALLOWLIB: libcmt.lib
+          已处理 /DISALLOWLIB: libcmtd.lib
+         已处理 /DEFAULTLIB: vcruntime.lib
+          已处理 /DISALLOWLIB: vcruntimed.lib
+          已处理 /DISALLOWLIB: libvcruntime.lib
+          已处理 /DISALLOWLIB: libvcruntimed.lib
+         已处理 /DEFAULTLIB: ucrt.lib
+          已处理 /DISALLOWLIB: ucrtd.lib
+          已处理 /DISALLOWLIB: libucrt.lib
+          已处理 /DISALLOWLIB: libucrtd.lib
+               已找到 "void __cdecl __scrt_throw_std_bad_alloc(void)" (?__scrt_throw_std_bad_alloc@@YAXXZ)
+                 已在 MSVCRT.lib(new_scalar.obj) 中引用
+                 已加载 MSVCRT.lib(throw_bad_alloc.obj)
+               已找到 ___isa_available_init
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 MSVCRT.lib(_cpu_disp_.obj)
+               已找到 ___scrt_is_ucrt_dll_in_use
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 MSVCRT.lib(ucrt_detection.obj)
+               已找到 ___guard_check_icall_fptr
+                 已在 MSVCRT.lib(checkcfg.obj) 中引用
+                 已加载 MSVCRT.lib(guard_support.obj)
+               已找到 "void __cdecl operator delete(void *,unsigned int)" (??3@YAXPAXI@Z)
+                 已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+                 已加载 MSVCRT.lib(delete_scalar_size.obj)
+               已找到 "const type_info::`vftable'" (??_7type_info@@6B@)
+                 已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+                 已加载 MSVCRT.lib(std_type_info_static.obj)
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\OLDNAMES.lib:
+               已找到 __imp__itoa
+                 已在 main.obj 中引用
+                 已加载 OLDNAMES.lib(itoa.obi)
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\vcruntime.lib:
+               已找到 _memcmp
+                 已在 main.obj 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 _memcpy
+                 已在 main.obj 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 _memset
+                 已在 main.obj 中引用
+                 已在 main.obj 中引用
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 ___telemetry_main_invoke_trigger
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 ___telemetry_main_return_trigger
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 ___std_type_info_destroy_list
+                 已在 MSVCRT.lib(tncleanup.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 __except_handler4_common
+                 已在 MSVCRT.lib(_chandler4gs_.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 ___std_exception_copy
+                 已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 ___std_exception_destroy
+                 已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 __CxxThrowException@8
+                 已在 MSVCRT.lib(throw_bad_alloc.obj) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 __IMPORT_DESCRIPTOR_VCRUNTIME140
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+               已找到 VCRUNTIME140_NULL_THUNK_DATA
+                 已在 vcruntime.lib(VCRUNTIME140.dll) 中引用
+                 已加载 vcruntime.lib(VCRUNTIME140.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.10150.0\ucrt\x86\ucrt.lib:
+               已找到 _strcat
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 _strcpy
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 _strlen
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 __imp__strncmp
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 __imp___ultoa
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+               已找到 __imp____stdio_common_vsprintf
+                 已在 main.obj 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+               已找到 __seh_filter_exe
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __set_app_type
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 ___setusermatherr
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+               已找到 __configure_narrow_argv
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __initialize_narrow_environment
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __get_narrow_winmain_command_line
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __initterm
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __initterm_e
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 _exit
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __exit
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __set_fmode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+               已找到 __cexit
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __c_exit
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __register_thread_local_exe_atexit_callback
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __configthreadlocale
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+               已找到 __set_new_mode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+               已找到 ___p__commode
+                 已在 MSVCRT.lib(exe_winmain.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+               已找到 __callnewh
+                 已在 MSVCRT.lib(new_scalar.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+               已找到 _malloc
+                 已在 MSVCRT.lib(new_scalar.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+               已找到 _free
+                 已在 MSVCRT.lib(delete_scalar.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+               已找到 __seh_filter_dll
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __initialize_onexit_table
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __register_onexit_function
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __execute_onexit_table
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __crt_atexit
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __crt_at_quick_exit
+                 已在 MSVCRT.lib(utility.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __controlfp_s
+                 已在 MSVCRT.lib(default_precision.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 _terminate
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __imp___itoa
+                 已在 OLDNAMES.lib(itoa.obi) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-string-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-convert-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-stdio-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-runtime-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-math-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-locale-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+               已找到 __IMPORT_DESCRIPTOR_api-ms-win-crt-heap-l1-1-0
+                 已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+                 已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+               已找到 api-ms-win-crt-string-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+               已找到 api-ms-win-crt-convert-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+               已找到 api-ms-win-crt-stdio-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+               已找到 api-ms-win-crt-runtime-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+               已找到 api-ms-win-crt-math-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+               已找到 api-ms-win-crt-locale-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+               已找到 api-ms-win-crt-heap-l1-1-0_NULL_THUNK_DATA
+                 已在 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll) 中引用
+                 已加载 ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\version.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\kernel32.lib:
+               已找到 __imp__UnhandledExceptionFilter@4
+                 已在 MSVCRT.lib(gs_report.obj) 中引用
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__SetUnhandledExceptionFilter@4
+                 已在 MSVCRT.lib(gs_report.obj) 中引用
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetCurrentProcess@0
+                 已在 MSVCRT.lib(gs_report.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__TerminateProcess@8
+                 已在 MSVCRT.lib(gs_report.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 _IsProcessorFeaturePresent@4
+                 已在 MSVCRT.lib(gs_report.obj) 中引用
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已在 MSVCRT.lib(_cpu_disp_.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__QueryPerformanceCounter@4
+                 已在 MSVCRT.lib(gs_support.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetCurrentProcessId@0
+                 已在 MSVCRT.lib(gs_support.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetCurrentThreadId@0
+                 已在 MSVCRT.lib(gs_support.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetSystemTimeAsFileTime@4
+                 已在 MSVCRT.lib(gs_support.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__InitializeSListHead@4
+                 已在 MSVCRT.lib(tncleanup.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__IsDebuggerPresent@0
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetStartupInfoW@4
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+               已找到 __imp__GetModuleHandleW@4
+                 已在 MSVCRT.lib(utility_desktop.obj) 中引用
+                 已加载 kernel32.lib(KERNEL32.dll)
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\user32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\gdi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\comdlg32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\shell32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\MSVCRT.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\OLDNAMES.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\vcruntime.lib:
+         
+         已完成库搜索
+         
+         已完成传递 1
+         
+         
+         正在搜索库
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\version.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\kernel32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\user32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\gdi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\comdlg32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\shell32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\MSVCRT.lib:
+               已找到 ___scrt_stub_for_acrt_initialize
+                 已加载 MSVCRT.lib(ucrt_stubs.obj)
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\OLDNAMES.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\vcruntime.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.10150.0\ucrt\x86\ucrt.lib:
+         
+         已完成库搜索
+         
+         正在搜索库
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\version.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\kernel32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\user32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\gdi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\comdlg32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\shell32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\MSVCRT.lib:
+               已找到 __load_config_used
+                 已加载 MSVCRT.lib(loadcfg.obj)
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\OLDNAMES.lib:
+             正在搜索 C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib\vcruntime.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\10\lib\10.0.10150.0\ucrt\x86\ucrt.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\version.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\kernel32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\user32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\gdi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\comdlg32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\shell32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib:
+             正在搜索 C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib:
+         
+         已完成库搜索
+         
+         正在调用 rc.exe:
+          /v
+          /x
+          /fo
+          "C:\Users\ZENGXX\AppData\Local\Temp\lnk{DF974EB2-5821-498D-A45E-0027FCC295DD}.tmp"
+          "C:\Users\ZENGXX\AppData\Local\Temp\lnk{AC595177-EE42-4593-8A51-531C16D782B6}.tmp"
+         Microsoft (R) Windows (R) Resource Compiler Version 6.3.9600.17336
+         
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         
+         Creating C:\Users\ZENGXX\AppData\Local\Temp\lnk{DF974EB2-5821-498D-A45E-0027FCC295DD}.tmp
+         
+         Using codepage 936 as default
+         
+         C:\Users\ZENGXX\AppData\Local\Temp\lnk{AC595177-EE42-4593-8A51-531C16D782B6}.tmp.
+         Writing 24:1,	lang:0x409,	size 638
+         
+         正在调用 cvtres.exe:
+          /machine:x86
+          /verbose
+          /out:"C:\Users\ZENGXX\AppData\Local\Temp\lnk{44F6379B-0C98-46BF-8716-2582882CEF25}.tmp"
+          /readonly
+          ".\Release\Script1.res"
+          "C:\Users\ZENGXX\AppData\Local\Temp\lnk{DF974EB2-5821-498D-A45E-0027FCC295DD}.tmp"
+         Microsoft(R) Windows Resource To Object Converter 版本 14.00.23026.0
+         版权所有 (C) Microsoft Corporation。保留所有权利。
+         
+         正在添加资源。类型: VERSION，名称: 1，语言: 0x0004，标记: 0x30，大小: 588
+         正在添加资源。类型: DIALOG，名称: 101，语言: 0x0804，标记: 0x1030，大小: 222
+         正在添加资源。类型: DIALOG，名称: 105，语言: 0x0804，标记: 0x1030，大小: 360
+         正在添加资源。类型: ICON，名称: 1，语言: 0x040D，标记: 0x1010，大小: 744
+         正在添加资源。类型: ICON，名称: 2，语言: 0x040D，标记: 0x1010，大小: 296
+         正在添加资源。类型: GROUP_ICON，名称: 103，语言: 0x040D，标记: 0x1030，大小: 34
+         正在添加资源。类型: MANIFEST，名称: 1，语言: 0x0409，标记: 0x30，大小: 638
+         
+         未使用的库:
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbc32.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\odbccp32.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\winspool.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\advapi32.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\ole32.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\oleaut32.lib
+           C:\Program Files (x86)\Windows Kits\8.1\lib\winv6.3\um\x86\uuid.lib
+         
+         正在启动传递 2
+              Script1.res
+              main.obj
+              version.lib(VERSION.dll)
+              version.lib(VERSION.dll)
+              version.lib(VERSION.dll)
+              version.lib(VERSION.dll)
+              version.lib(VERSION.dll)
+              version.lib(VERSION.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              kernel32.lib(KERNEL32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              user32.lib(USER32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              gdi32.lib(GDI32.dll)
+              comdlg32.lib(COMDLG32.dll)
+              comdlg32.lib(COMDLG32.dll)
+              comdlg32.lib(COMDLG32.dll)
+              shell32.lib(SHELL32.dll)
+              shell32.lib(SHELL32.dll)
+              shell32.lib(SHELL32.dll)
+              shell32.lib(SHELL32.dll)
+              shell32.lib(SHELL32.dll)
+              MSVCRT.lib(_cpu_disp_.obj)
+              MSVCRT.lib(_initsect_.obj)
+              MSVCRT.lib(_sehprolg4_.obj)
+              MSVCRT.lib(_chandler4gs_.obj)
+              MSVCRT.lib(_secchk_.obj)
+              MSVCRT.lib(chkstk.obj)
+              MSVCRT.lib(gs_cookie.obj)
+              MSVCRT.lib(gs_report.obj)
+              MSVCRT.lib(gs_support.obj)
+              MSVCRT.lib(checkcfg.obj)
+              MSVCRT.lib(guard_support.obj)
+              MSVCRT.lib(loadcfg.obj)
+              MSVCRT.lib(dyn_tls_dtor.obj)
+              MSVCRT.lib(dyn_tls_init.obj)
+              MSVCRT.lib(matherr_detection.obj)
+              MSVCRT.lib(ucrt_detection.obj)
+              MSVCRT.lib(argv_mode.obj)
+              MSVCRT.lib(commit_mode.obj)
+              MSVCRT.lib(default_local_stdio_options.obj)
+              MSVCRT.lib(denormal_control.obj)
+              MSVCRT.lib(file_mode.obj)
+              MSVCRT.lib(invalid_parameter_handler.obj)
+              MSVCRT.lib(matherr.obj)
+              MSVCRT.lib(new_mode.obj)
+              MSVCRT.lib(thread_locale.obj)
+              MSVCRT.lib(std_type_info_static.obj)
+              MSVCRT.lib(tncleanup.obj)
+              MSVCRT.lib(delete_array.obj)
+              MSVCRT.lib(delete_scalar.obj)
+              MSVCRT.lib(delete_scalar_size.obj)
+              MSVCRT.lib(new_array.obj)
+              MSVCRT.lib(new_scalar.obj)
+              MSVCRT.lib(throw_bad_alloc.obj)
+              MSVCRT.lib(exe_winmain.obj)
+              MSVCRT.lib(initializers.obj)
+              MSVCRT.lib(utility.obj)
+              MSVCRT.lib(ucrt_stubs.obj)
+              MSVCRT.lib(utility_desktop.obj)
+              MSVCRT.lib(default_precision.obj)
+              OLDNAMES.lib(itoa.obi)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              vcruntime.lib(VCRUNTIME140.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-string-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-stdio-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-runtime-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-math-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-locale-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-heap-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+              ucrt.lib(api-ms-win-crt-convert-l1-1-0.dll)
+         已完成传递 2
+         exeinfo.vcxproj -> E:\zengxianxi\VCPPwork\exeinfosrc\.\Release\exeinfo.exe
+     1>已完成生成项目“E:\zengxianxi\VCPPwork\exeinfosrc\exeinfo.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:04.79
